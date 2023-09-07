@@ -1,0 +1,27 @@
+header {
+    display: inline-flexbox;
+    background-color: black;
+    text-align: left;
+}
+
+.my-cloud {
+    font-size: 36px;
+    color: white
+}
+
+.cloud {
+    color: aqua;
+}
+
+.CompletedProjects {
+    text-align: center;
+    background-color: #662e9b;
+    color: white;
+}
+
+.ContactUs {
+    text-align: right;
+    background-color: #00FFFF;
+    color: black;
+    text-decoration: underline;
+}
